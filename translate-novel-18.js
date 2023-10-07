@@ -17,7 +17,7 @@ setTimeout(() => {
         /** 代理地址，不需要改 */
         const OPENAI_HOST = 'https://api.openai-proxy.com';
         /** openai的appKey，必须 */
-        const OPENAI_APP_KEY = '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';
+        const OPENAI_APP_KEY = '';
         /** 分块翻译最大字数 */
         const SLICE_LENGTH = 500;
         /** 并行的翻译数，根据阅读习惯来 */
